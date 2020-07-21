@@ -14,7 +14,7 @@ We notice that giving birth was very dangerous; an alarming number of women died
 We see this more clearly if we look at the proportion of deaths out of the number of women giving birth.
 
 The graph for the two clinics:
-![alt text]("https://github.com/arjuaman/SEMMELWEIS-AND-THE-DISCOVERY-OF-HANDWASHING/blob/master/clinic1vsclinic2.png")
+![alt text](https://github.com/arjuaman/SEMMELWEIS-AND-THE-DISCOVERY-OF-HANDWASHING/blob/master/clinic1vsclinic2.png "df1 is clinic 1 and df2 is clinic 2")
 
 The only difference between the clinics was that many medical students served at Clinic 1, while mostly midwife students served at Clinic 2. While the midwives only tended to the women giving birth, the medical students also spent time in the autopsy rooms examining corpses.
 
