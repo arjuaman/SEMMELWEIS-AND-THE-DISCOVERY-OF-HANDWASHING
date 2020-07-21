@@ -19,6 +19,10 @@ The graph for the two clinics:
 The only difference between the clinics was that many medical students served at Clinic 1, while mostly midwife students served at Clinic 2. While the midwives only tended to the women giving birth, the medical students also spent time in the autopsy rooms examining corpses.
 
 Semmelweis started to suspect that something on the corpses, spread from the hands of the medical students, caused childbed fever.
+He introduced the idea of handwashing in clinic 1.
+
+The graph after his experiment:
+![alt_text](https://github.com/arjuaman/SEMMELWEIS-AND-THE-DISCOVERY-OF-HANDWASHING/blob/master/before_After_handwash.png)
 
 Starting from the summer of 1847 the proportion of deaths is drastically reduced and, yes, this was when Semmelweis made handwashing obligatory.
 
