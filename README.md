@@ -1,4 +1,4 @@
-# DR. SEMMELWEIS AND THE DISCOVERY OF HANDWASHING 
+## DR. SEMMELWEIS AND THE DISCOVERY OF HANDWASHING 
 
 Ignaz Philipp Semmelweis was a Hungarian physician and scientist, now known as an early pioneer of antiseptic procedures. Described as the "saviour of mothers", Semmelweis discovered that the incidence of puerperal fever (also known as "childbed fever") could be drastically cut by the use of hand disinfection in obstetrical clinics. Puerperal fever was common in mid-19th-century hospitals and often fatal. Semmelweis proposed the practice of washing hands with chlorinated lime solutions in 1847 while working in Vienna General Hospital's First Obstetrical Clinic, where doctors' wards had three times the mortality of midwives' wards. He published a book of his findings in Etiology, Concept and Prophylaxis of Childbed Fever.
 
